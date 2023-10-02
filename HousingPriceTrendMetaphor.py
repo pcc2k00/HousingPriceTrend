@@ -1,5 +1,4 @@
 import openai
-import gradio as gr
 import yaml
 
 from metaphor_python import Metaphor
