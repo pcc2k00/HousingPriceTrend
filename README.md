@@ -23,5 +23,24 @@ pip install openai pyyaml metaphor-python
 Clone the repository to your local machine.
 Create a pass.yml file in the project directory and add your OpenAI and Metaphor API keys as follows:
 
-```openAi: <Your-OpenAI-API-Key>
-metaphor: <Your-Metaphor-API-Key>```
+```
+openAi: <Your-OpenAI-API-Key>
+metaphor: <Your-Metaphor-API-Key>
+```
+
+## Usage
+Run the Python script in your preferred development environment.
+The script will generate a search query based on the predefined user question, fetch the relevant content using the Metaphor API, and then summarize the content using OpenAI.
+
+## Contributing
+Feel free to fork the project, make changes, and submit pull requests. Any contributions are welcome!
+
+## License
+This project is open-source and available under <u>the MIT</u> License.
+
+## Contact
+For any queries or concerns, please open an issue on this GitHub repository.
+
+## Acknowledgements
+- <u>OpenAI</u>
+- <u>Metaphor</u>
