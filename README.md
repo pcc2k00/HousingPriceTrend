@@ -17,7 +17,11 @@ To install the necessary dependencies, run the following command:
 
 ```sh
 pip install openai pyyaml metaphor-python
+```
 
 ## Setup
 Clone the repository to your local machine.
 Create a pass.yml file in the project directory and add your OpenAI and Metaphor API keys as follows:
+
+```openAi: <Your-OpenAI-API-Key>
+metaphor: <Your-Metaphor-API-Key>```
