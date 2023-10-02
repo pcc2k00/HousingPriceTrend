@@ -5,6 +5,11 @@
 This project is a Python application that utilizes the OpenAI and Metaphor API to fetch and answer questions related to various topics, such as recent housing prices in Seattle.
 The application generates search queries based on user questions and then summarizes the content of the fetched webpages to provide concise answers.
 
+## Example Output
+
+<img width="1206" alt="Screenshot 2023-10-02 at 5 46 24 AM" src="https://github.com/pcc2k00/HousingPriceTrend/assets/48481860/bc00eb21-79a7-4814-928a-40465322db77">
+
+
 ## Dependencies
 
 - `openai`
